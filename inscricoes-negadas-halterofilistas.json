@@ -1,0 +1,185 @@
+{
+  "numeroInscricoesRejeitadas": 45,
+  "inscricoesRejeitadas": [
+    {
+      "nomeAtleta": "Sean Walklott",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Isadora Bagnall",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Merridie Moutray Read",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Stanley Blackaller",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Heddie Hammell",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Davey Kirrage",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Fredelia Blitz",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Chadd Shadrach",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Dorella Saby",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Bianka Amesbury",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Kienan Bocking",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Valli Davoren",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Allix Lerer",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Noel Fallow",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Phebe Surfleet",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Rozamond Cockley",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Tatum Teggin",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Celestyna Loachhead",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Hinze Jeal",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Helli Bowdidge",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Nissa Bartram",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Dorelle MacAllister",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Risa Leivesley",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Wilona Glassard",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Tybi Joost",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Tonye Ivashchenko",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Curtis Ure",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Griswold Scirman",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Jobie Philbrick",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Zed Speedin",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Charles Aingel",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Annabel Brion",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Bernette Philo",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Carr Shawyers",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Lisha Dragon",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Florian Hebbard",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Markos Cosgrove",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Basia Hould",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Rebecca Episcopio",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Chauncey Gawthorpe",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Grantley MacCollom",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Ludovico Standish",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Brittaney Roads",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Lira Livingston",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Freeman Berryman",
+      "motivo": "Atleta com muitas lesões!"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "numeroInscricoesRejeitadas": 58,
+  "inscricoesRejeitadas": [
+    {
+      "nomeAtleta": "Niccolo Bredee",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Benni Huey",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Daron Blacker",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Porter Arkle",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Corina Haith",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Clemente Leivers",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Robinet Bibby",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Cinda Quarton",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Lonee Irving",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Riobard Stanmore",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Papagena Korb",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Marvin Hassell",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Quintana Roj",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Meier Bischop",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Jacky McCord",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Dorthy Cundict",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Cornall Perelli",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Khalil Nockolds",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Rosalie Crees",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Sheri MacDiarmond",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Kimberlyn Woolfall",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Kip Cosley",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Hillier Dibsdale",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Eulalie Palle",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Ash Yes",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Brigham McLernon",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Clarence Rawling",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Mirna Evesque",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Troy Southorn",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Tye Janiak",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Nanny Keighley",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Christopher Yeulet",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Pammy Kerrane",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Cesare Schiementz",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Sergeant Davydoch",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Reeta Laidlow",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Rock Grinaway",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Corina Casbon",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Jilleen Limprecht",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Maddie Lumox",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Irving Hatwells",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Mamie Line",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Melodee McGerr",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Tootsie Ghilardi",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Iris Broun",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Bevvy Boate",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Anatola Delooze",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Jeniffer Penas",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Kaia Ivanichev",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Phaidra Blest",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Les Gyngell",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Sherri Micklewicz",
+      "motivo": "Atleta com idade menor que 18 anos!"
+    },
+    {
+      "nomeAtleta": "Hyacinth Mooreed",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Yorker Wyard",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Annamarie West",
+      "motivo": "Atleta com idade maior que o permitido (46)!"
+    },
+    {
+      "nomeAtleta": "Penn Helder",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Corinne McQuaker",
+      "motivo": "Atleta com muitas lesões!"
+    },
+    {
+      "nomeAtleta": "Megan Stych",
+      "motivo": "Atleta com muitas lesões!"
+    }
+  ]
+}
